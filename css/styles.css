@@ -62,7 +62,7 @@ body {
 }
 
 .logosvg:hover{
-  filter: invert(57%) sepia(41%) saturate(5675%) hue-rotate(338deg) brightness(78%) contrast(95%);
+  filter: invert(57%) sepia(41%) saturate(5675%) hue-rotate(338deg) brightness(78%) contrast(95%) drop-shadow( 2px 2px 2px rgba(0, 0, 0, .2));
 }
 
 hr {
